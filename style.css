@@ -109,7 +109,7 @@ a:hover::after {
     width: fit-content; /* Other browsers */
     max-height: 0;
     overflow: hidden;
-    transition: all 0.3s ease-in-out; /* Added missing 's' after 0.3 */
+    transition: all 0.3s ease-in-out; 
 }
 
 .menu-links a {
@@ -216,7 +216,7 @@ section {
 /* ICONS */
 
 .icon {
-    height: 2rem; /* Adjust as needed */
+    height: 2rem; 
 }
 
 
@@ -364,8 +364,8 @@ article .icon {
 /* Experience SECTION */
 
 .experience-details-container i {
-    font-size: 3rem; /* Adjust the font size as needed */
-    color: currentColor; /* Use currentColor to inherit the color */
+    font-size: 3rem; 
+    color: currentColor; 
 }
 
 
