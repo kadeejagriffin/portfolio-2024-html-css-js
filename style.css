@@ -292,7 +292,7 @@ color: white;
 }
 
 .about-pic {
-    border-radius: 2rem;
+    border-radius: rem;
 }
 
 .arrow {
@@ -331,7 +331,7 @@ color: white;
 
 .experience-sub-title {
     color: rgb(85, 85, 85);
-    font-weight: 600;
+    font-weight: 500;
     font-size: 1.75rem;
     margin-bottom: 2rem;
 }
@@ -389,7 +389,7 @@ article .icon {
 }
 
 .project-title {
-    margin: 1rem;
+    margin: 2rem;
     color: black;
 }
 
@@ -404,8 +404,9 @@ article .icon {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 70vh;
+    height: 60vh;
 }
+
 
 .contact-info-upper-container {
     display: flex;
