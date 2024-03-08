@@ -169,20 +169,21 @@ section {
     display: flex;
 }
 
-/* PROFILE SECTIOn */
+/* PROFILE SECTION */
 
 #profile {
     display: flex;
     justify-content: center;
-    gap: 5rem;
+    gap: 4rem;
     height: 80vh;
 }
 
 .section__pic-container {
     display: flex;
-    height: 400px;
-    width: 400px;
+    height: 500px;
+    width: 500px;
     margin: auto 0;
+    border-radius: 2rem;
 }
 
 .section__text {
@@ -198,25 +199,25 @@ section {
     text-align: center;
 }
 .section__text__p2 {
-    font-size: 1.75rem;
+    font-size: 3.5rem;
     margin-bottom: 1rem;
 }
 
 .title {
-    font-size: 3rem;
+    font-size: 5rem;
     text-align: center;
 }
 #socials-container {
     display: flex;
     justify-content: center;
-    margin-top: 1rem;
-    gap: 1rem;
+    margin-top: 2rem;
+    gap: 2rem;
 }
 
 /* ICONS */
 
 .icon {
-    height: 2rem; 
+    height: 3rem; 
 }
 
 
